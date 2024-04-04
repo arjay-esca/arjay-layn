@@ -2,8 +2,6 @@
 
 <h2>Hola, Soy Arjay 👋</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 ¡Hola! 👋 Soy un apasionado Desarrollador Web con 3 meses de experiencia en Desarrollo Front-End, destacándome por mi capacidad para resolver desafíos en sistemas de TI de manera innovadora. 🛠️💡

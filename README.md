@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://private-user-images.githubusercontent.com/149443470/319785237-890ea542-5e71-441e-a2fd-61940f061d8d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIyNjkyNTMsIm5iZiI6MTcxMjI2ODk1MywicGF0aCI6Ii8xNDk0NDM0NzAvMzE5Nzg1MjM3LTg5MGVhNTQyLTVlNzEtNDQxZS1hMmZkLTYxOTQwZjA2MWQ4ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwNFQyMjE1NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzg0MTI1Nzk3MjZkMTBiYjRjNjgxODkyNzVjMTE3NGU4NzQzMjFiOTVlOTcyM2FiMmE3NmM2OTkwYmMxN2Y4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.-4FOn3CP9xHEgJdWqJpG6vqA0rSOqCx59RohXhHRNy0)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<h2>Hola, Soy Arjay 👋</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
@@ -14,10 +14,9 @@ Mi última experiencia me permitió diseñar y desarrollar una aplicación web c
 
 Soy autodidacta, adaptable y comprometido con la excelencia en cada proyecto en el que participo. 📚🎯
 
-<img alt="Night Coding" src="https://github.com/arjay-layn/arjay-layn/assets/149443470/775b141f-d05a-480f-b604-9eebb383425d" width="300" height="200" align="right"/>
+<img alt="Night Coding" src="https://github.com/arjay-layn/arjay-layn/assets/149443470/775b141f-d05a-480f-b604-9eebb383425d" width="300" height="180" align="right"/>
 
 ### 🛠 &nbsp;Tecnologías
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;\

@@ -32,6 +32,6 @@ Soy autodidacta, adaptable y comprometido con la excelencia en cada proyecto en 
 ### 🤝🏻 &nbsp;Contáctame
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arjay-layn/"><img src="https://img.shields.io/badge/-Arjaya%20Escajadillo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arjay-layn/"><img src="https://img.shields.io/badge/-Arjay%20Escajadillo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:arjay.layn@gmail.com"><img src="https://img.shields.io/badge/-arjay.layn@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>

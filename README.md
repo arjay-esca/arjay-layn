@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://private-user-images.githubusercontent.com/149443470/319785237-890ea542-5e71-441e-a2fd-61940f061d8d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIyNjkyNTMsIm5iZiI6MTcxMjI2ODk1MywicGF0aCI6Ii8xNDk0NDM0NzAvMzE5Nzg1MjM3LTg5MGVhNTQyLTVlNzEtNDQxZS1hMmZkLTYxOTQwZjA2MWQ4ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwNFQyMjE1NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzg0MTI1Nzk3MjZkMTBiYjRjNjgxODkyNzVjMTE3NGU4NzQzMjFiOTVlOTcyM2FiMmE3NmM2OTkwYmMxN2Y4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.-4FOn3CP9xHEgJdWqJpG6vqA0rSOqCx59RohXhHRNy0)
+![Arjay Banner](https://private-user-images.githubusercontent.com/149443470/319785237-890ea542-5e71-441e-a2fd-61940f061d8d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIyNjkyNTMsIm5iZiI6MTcxMjI2ODk1MywicGF0aCI6Ii8xNDk0NDM0NzAvMzE5Nzg1MjM3LTg5MGVhNTQyLTVlNzEtNDQxZS1hMmZkLTYxOTQwZjA2MWQ4ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwNFQyMjE1NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzg0MTI1Nzk3MjZkMTBiYjRjNjgxODkyNzVjMTE3NGU4NzQzMjFiOTVlOTcyM2FiMmE3NmM2OTkwYmMxN2Y4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.-4FOn3CP9xHEgJdWqJpG6vqA0rSOqCx59RohXhHRNy0)
 
 <h2>Hola, Soy Arjay 👋</h2>
 
@@ -12,8 +12,6 @@ Mi última experiencia me permitió diseñar y desarrollar una aplicación web c
 
 Soy autodidacta, adaptable y comprometido con la excelencia en cada proyecto en el que participo. 📚🎯
 
-
-
 ### 🛠 &nbsp;Tecnologías
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -21,6 +19,7 @@ Soy autodidacta, adaptable y comprometido con la excelencia en cada proyecto en 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">

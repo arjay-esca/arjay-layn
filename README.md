@@ -1,24 +1,19 @@
 ![Arjay Banner](https://github.com/arjay-layn/arjay-layn/assets/149443470/4526a5f4-4d8b-4861-a5f5-1ca595aa54d1)
 
-<h2>Hola, Soy Arjay 👋</h2>
+<h2>Hola, Soy Arjay Escajadillo👋</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-¡Hola! 👋 Soy un apasionado Desarrollador Web con 3 meses de experiencia en Desarrollo Front-End, destacándome por mi capacidad para resolver desafíos en sistemas de TI de manera innovadora. 🛠️💡
+😊Soy estudiante de Ingeniería de Sistemas Computacionales en la Universidad Privada del Norte, perteneciente al décimo superior. Apasionado por el análisis de datos, he desarrollado habilidades en Excel, SQL, Power BI y Python a través de proyectos académicos y personales.
 
-Mi enfoque se centra en la resolución eficiente de problemas técnicos y la comunicación efectiva en equipos colaborativos. 🤝🔍
-
-Mi última experiencia me permitió diseñar y desarrollar una aplicación web completa para la gestión de planes de acción, demostrando mis habilidades en HTML, CSS, JavaScript y Bootstrap, así como mi capacidad para integrar eficientemente servicios de Google. 💻✨
-
-Soy autodidacta, adaptable y comprometido con la excelencia en cada proyecto en el que participo. 📚🎯
+🤓 Me considero una persona autodidacta, con capacidad para adaptarme a nuevos desafíos y con un enfoque en la resolución de problemas complejos. Busco contribuir al desarrollo de soluciones innovadoras en el campo de la tecnología y los datos.
 
 ### 🛠 &nbsp;Tecnologías
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi&logoColor=f2c811)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
